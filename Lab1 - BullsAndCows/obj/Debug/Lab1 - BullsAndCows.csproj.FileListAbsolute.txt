@@ -1,0 +1,7 @@
+C:\Users\270030111\source\repos\Lab1 - BullsAndCows\Lab1 - BullsAndCows\bin\Debug\Lab1 - BullsAndCows.exe.config
+C:\Users\270030111\source\repos\Lab1 - BullsAndCows\Lab1 - BullsAndCows\bin\Debug\Lab1 - BullsAndCows.exe
+C:\Users\270030111\source\repos\Lab1 - BullsAndCows\Lab1 - BullsAndCows\bin\Debug\Lab1 - BullsAndCows.pdb
+C:\Users\270030111\source\repos\Lab1 - BullsAndCows\Lab1 - BullsAndCows\obj\Debug\Lab1 - BullsAndCows.csprojAssemblyReference.cache
+C:\Users\270030111\source\repos\Lab1 - BullsAndCows\Lab1 - BullsAndCows\obj\Debug\Lab1 - BullsAndCows.csproj.CoreCompileInputs.cache
+C:\Users\270030111\source\repos\Lab1 - BullsAndCows\Lab1 - BullsAndCows\obj\Debug\Lab1 - BullsAndCows.exe
+C:\Users\270030111\source\repos\Lab1 - BullsAndCows\Lab1 - BullsAndCows\obj\Debug\Lab1 - BullsAndCows.pdb
